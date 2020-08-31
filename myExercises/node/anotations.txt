@@ -5,3 +5,7 @@ sudo npm i -g nodemon //instala o nodemon
 
 //entra na pasta onde esta o arquivo q vc deseja executar pelo terminal
 nodemon nomeDoArquivo.js //vai executar o código
+
+
+//para temporizador
+npm i node-schedule@1.3.0 -E
